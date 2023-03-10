@@ -1,3 +1,3 @@
 # kokoa clone coding
 
-안녕
+Html & css are soso mech fun!
